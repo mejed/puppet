@@ -1,0 +1,8 @@
+0x0001 2022-09-20T21:30:02UTC 2027-09-20T21:30:02UTC /CN=Puppet CA: puppet-master.emnaetmajed.fr
+0x0002 2022-09-20T21:44:35UTC 2027-09-20T21:44:35UTC /CN=puppet-master.emnaetmajed.fr
+0x0003 2022-09-20T21:52:16UTC 2027-09-20T21:52:16UTC /CN=puppet-slave.emnaetmajed.fr
+0x0004 2022-09-22T21:04:59UTC 2027-09-22T21:04:59UTC /CN=puppet-slave.emnaetmajed.fr
+0x0005 2022-09-22T21:09:02UTC 2027-09-22T21:09:02UTC /CN=puppet-slave-1.emnaetmajed.fr
+0x0006 2022-09-22T21:09:02UTC 2027-09-22T21:09:02UTC /CN=puppet-slave-3.emnaetmajed.fr
+0x0007 2022-09-22T21:09:02UTC 2027-09-22T21:09:02UTC /CN=puppet-slave-2.emnaetmajed.fr
+0x0008 2022-09-22T21:09:02UTC 2027-09-22T21:09:02UTC /CN=puppet-slave-4.emnaetmajed.fr
