@@ -10,7 +10,7 @@ $ip=$server_facts['$serverip']
 #Configuring apache2 index file
 file { "/var/www/html/index.html":
     ensure  => "present",
-    content => "The ip for this server is $ipaddress"
+    content => "This is the ip: $ipaddress"
     }
 
 #Starting apache2 services
